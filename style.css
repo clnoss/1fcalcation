@@ -1,0 +1,91 @@
+@charset "UTF-8";
+
+.topimage{
+  width: 100%;
+  height: 250px;
+  background: url("img/topimage.jpg");
+  background-position: 20% 80%;
+}
+
+.taitoru {
+  padding: 0.3em;
+  color: #494949;
+  background: #DFF9FB;
+  border-left: solid 5px #84CBF8;
+}
+
+.setumei1 {
+  font-family: "MS Pゴシック";
+  font-weight: bold;
+}
+
+.setumei2 {
+  font-family: "MS Pゴシック";
+  font-weight: bold;
+}
+
+.setumei3 {
+  font-family: "MS Pゴシック";
+  font-weight: bold;
+}
+
+.DB {
+  font-family: "MS Pゴシック";
+  font-weight: normal;
+}
+
+.twitter {
+  font-family: "MS Pゴシック";
+  font-weight: normal;
+}
+
+.first{
+  background-color: #F8CCCC;
+  font-family: "MS Pゴシック";
+  font-weight: normal;
+}
+
+.second{
+  background-color: #E3DFF6;
+  font-family: "MS Pゴシック";
+  font-weight: normal;
+}
+
+.third{
+  background-color: #C7EEC6;
+  font-family: "MS Pゴシック";
+  font-weight: normal;
+}
+
+.infoform{
+  background-color: #FDFCB7;
+  font-family: "MS Pゴシック";
+  font-weight: normal;
+}
+
+button.button1{
+  display: inline-block;
+  padding: 0.5em 3em;
+  text-decoration: none;
+  background: #f7f7f7;
+  border-left: solid 6px #ff7c5c;/*左線*/
+  color: #ff7c5c;/*文字色*/
+  font-weight: bold;
+  box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.29);
+}
+
+button.button1{
+  box-shadow: inset 0 0 2px rgba(128, 128, 128, 0.1);
+  transform: translateY(2px);
+}
+
+.resultmoji {
+  font-family: "MS Pゴシック";
+  font-weight: normal;
+}
+
+.result{
+  background-color: #CBF7FD;
+  font-family: "MS Pゴシック";
+  font-weight: normal;
+}

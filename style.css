@@ -3,7 +3,7 @@
 .topimage{
   width: 100%;
   height: 250px;
-  background: url("main/topimage.jpg");
+  background: url("![my image](topimage.jpg)");
   background-position: 20% 80%;
 }
 
